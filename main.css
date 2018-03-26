@@ -1,0 +1,24 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  /* flex-wrap: wrap; */
+  /* align-items: flex-start; */
+}
+
+.flex_item_1 {
+  margin: auto;
+  width: 60%;
+  height: 33%;
+}
+
+.flex_item_2 {
+  margin: auto;
+  width: 20%;
+  height: 33%;
+}
+
+.image {
+  height: 100%;
+  width: 40%;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bradley_Cooper%2C_July_2009_%28cropped%29.jpg/170px-Bradley_Cooper%2C_July_2009_%28cropped%29.jpg);
+}
